@@ -1,0 +1,16 @@
+{
+    "name": "fmp/testblog",
+    "authors": [
+        {
+            "name": "Hinezumi Juno",
+            "email": "8Juno.Minazuki8@gmail.com"
+        }
+    ],
+    "config": {
+            "vendor-dir": "Vendor"
+    },		
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
