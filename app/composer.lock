@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a39a9d9dd52840a7b3ddc33d0143c87b",
+    "content-hash": "2f60c78dc6554a566de850be00092ec2",
     "packages": [
         {
             "name": "cakedc/migrations",
@@ -1513,6 +1513,34 @@
                 "issues": "https://github.com/sizuhiko/Bdd/issues"
             },
             "time": "2014-05-17 09:01:21"
+        },
+        {
+            "name": "sizuhiko/fabricate",
+            "version": "1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sizuhiko/Fabricate.git",
+                "reference": "6be6e27f11578266bd7df67ba9a7df4a2efd0ca9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sizuhiko/Fabricate/zipball/6be6e27f11578266bd7df67ba9a7df4a2efd0ca9",
+                "reference": "6be6e27f11578266bd7df67ba9a7df4a2efd0ca9",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "*"
+            },
+            "type": "cakephp-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "sizuhiko",
+                    "email": "sizuhiko@gmail.com"
+                }
+            ],
+            "description": "CakePHP data generator for Testing",
+            "time": "2016-10-30T10:30:48+00:00"
         },
         {
             "name": "sizuhiko/spec-php",
